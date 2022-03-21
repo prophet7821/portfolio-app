@@ -22,6 +22,7 @@ const Logo = () => {
             fontFamily='M PLUS Rounded 1c", sans-serif'
             fontWeight="bold"
             ml={3}
+            letterSpacing="1px"
           >
             Samridha Das
           </Text>
