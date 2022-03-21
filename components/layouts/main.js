@@ -16,6 +16,7 @@ const Main = ({ children, router }) => {
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="description" content="Just.One.More.Page" />
+        <link rel="icon" type="image/x-icon" href="/images/justonemorepage-icn.svg"></link>
         <title>Just.One.More.Page - Homepage</title>
       </Head>
 
